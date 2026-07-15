@@ -6,22 +6,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monn01" alt="monn01" /></a>
+  <a href="https://github.com/monn01"><img src="https://github-profile-trophy.vercel.app/?username=monn01" alt="monn01" /></a>
 </p>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+<tr style="border:none;">
+<td valign="top" width="60%" style="border:none; padding:0;">
 
-- 🚀 Currently working on **CAKRA** & **SIBI-AI** — competition projects for LIDM 2026
+- 🚀 Currently working on **CAKRA** — competition projects for LIDM 2026
 - 🌱 Currently exploring **AI-assisted development** and **expert systems** (Forward Chaining + Certainty Factor)
 - 👯 Looking to collaborate on **frontend & full-stack web projects**
 - 🤝 Looking for help with **UI/UX design insights** and **backend architecture best practices**
 - 📫 How to reach me **2400018119@webmail.uad.ac.id** or **zakyprayata490@gmail.com**
 - ⚡ Fun fact: **UI/UX enthusiast who codes**
+- 🏫 Currently studying at Universitas Ahmad Dahlan, Yogyakarta, Indonesia.
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="40%" style="border:none; padding:0;">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="coding animation"/>
 </td>
 </tr>
