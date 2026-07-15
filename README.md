@@ -9,6 +9,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monn01" alt="monn01" /></a>
 </p>
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - 🚀 Currently working on **CAKRA** & **SIBI-AI** — competition projects for LIDM 2026
 - 🌱 Currently exploring **AI-assisted development** and **expert systems** (Forward Chaining + Certainty Factor)
 - 👯 Looking to collaborate on **frontend & full-stack web projects**
@@ -16,10 +20,18 @@
 - 📫 How to reach me **2400018119@webmail.uad.ac.id** or **zakyprayata490@gmail.com**
 - ⚡ Fun fact: **UI/UX enthusiast who codes**
 
+</td>
+<td valign="top" width="40%">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" alt="coding animation"/>
+</td>
+</tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dzaky-prayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dzaky prayata" height="30" width="40" /></a>
 <a href="https://instagram.com/jaee_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaee_pt" height="30" width="40" /></a>
+<a href="https://wa.me/6289686094040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
