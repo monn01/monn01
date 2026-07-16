@@ -9,6 +9,18 @@
   <a href="https://github.com/monn01"><img src="https://github-profile-trophy.vercel.app/?username=monn01" alt="monn01" /></a>
 </p>
 
+### 🧑‍💻 About Me
+
+I'm an Informatics student with a background in UI/UX design, currently focused on turning design thinking into working full-stack products. I like building things that actually get used — from campus competition prototypes to small production systems.
+
+- Comfortable across the stack with **Next.js, Prisma, Tailwind**, and expert-system logic (Forward Chaining + Certainty Factor)
+- Currently building **CAKRA** and **SIBI-AI**, offline-first AI systems for education, as part of Tim PIKIRIN for LIDM 2026
+- Background in **UI/UX design**, so I care about how systems feel to use, not just how they run
+- Learning more about **software architecture, deployment (Docker/VPS), and AI-assisted workflows**
+- Open to collaborating on **educational tech, expert systems, and full-stack web projects**
+
+---
+
 - 🚀 Currently working on **CAKRA** — competition projects for LIDM 2026
 - 🌱 Currently exploring **AI-assisted development** and **expert systems** (Forward Chaining + Certainty Factor)
 - 👯 Looking to collaborate on **frontend & full-stack web projects**
@@ -16,10 +28,6 @@
 - 📫 How to reach me **2400018119@webmail.uad.ac.id** or **zakyprayata490@gmail.com**
 - ⚡ Fun fact: **UI/UX enthusiast who codes**
 - 🏫 Currently studying at Universitas Ahmad Dahlan, Yogyakarta, Indonesia.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="35%" alt="coding animation"/>
-</p>
 
 ---
 
