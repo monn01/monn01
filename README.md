@@ -13,12 +13,6 @@
 
 I'm an Informatics student with a background in UI/UX design, currently focused on turning design thinking into working full-stack products. I like building things that actually get used — from campus competition prototypes to small production systems.
 
-- Comfortable across the stack with **Next.js, Prisma, Tailwind**, and expert-system logic (Forward Chaining + Certainty Factor)
-- Currently building **CAKRA** and **SIBI-AI**, offline-first AI systems for education, as part of Tim PIKIRIN for LIDM 2026
-- Background in **UI/UX design**, so I care about how systems feel to use, not just how they run
-- Learning more about **software architecture, deployment (Docker/VPS), and AI-assisted workflows**
-- Open to collaborating on **educational tech, expert systems, and full-stack web projects**
-
 ---
 
 - 🚀 Currently working on **CAKRA** — competition projects for LIDM 2026
