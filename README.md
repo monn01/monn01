@@ -18,14 +18,29 @@
 - 🏫 Currently studying at Universitas Ahmad Dahlan, Yogyakarta, Indonesia.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60%" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="35%" alt="coding animation"/>
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monn01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monn01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/dzaky-prayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dzaky prayata" height="30" width="40" /></a>
-<a href="https://instagram.com/jaee_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaee_pt" height="30" width="40" /></a>
-<a href="https://wa.me/6289686094040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+<a href="https://dzakydev.my.id" target="blank"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+<a href="https://linkedin.com/in/dzaky-prayata" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://instagram.com/jaee_pt" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+<a href="mailto:zakyprayata490@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
