@@ -9,10 +9,6 @@
   <a href="https://github.com/monn01"><img src="https://github-profile-trophy.vercel.app/?username=monn01" alt="monn01" /></a>
 </p>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-<tr style="border:none;">
-<td valign="top" width="60%" style="border:none; padding:0;">
-
 - 🚀 Currently working on **CAKRA** — competition projects for LIDM 2026
 - 🌱 Currently exploring **AI-assisted development** and **expert systems** (Forward Chaining + Certainty Factor)
 - 👯 Looking to collaborate on **frontend & full-stack web projects**
@@ -21,22 +17,19 @@
 - ⚡ Fun fact: **UI/UX enthusiast who codes**
 - 🏫 Currently studying at Universitas Ahmad Dahlan, Yogyakarta, Indonesia.
 
-</td>
-<td valign="top" width="40%" style="border:none; padding:0;">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="coding animation"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="60%" alt="coding animation"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dzaky-prayata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dzaky prayata" height="30" width="40" /></a>
 <a href="https://instagram.com/jaee_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaee_pt" height="30" width="40" /></a>
 <a href="https://wa.me/6289686094040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -57,4 +50,4 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monn01&show_icons=true&locale=en&layout=compact" alt="monn01" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=monn01&show_icons=true&locale=en&layout=compact" alt="monn01" /></p>
